@@ -42,8 +42,13 @@ Then the second map tries to find correlation between population density and dea
 
 This demographic information is extracted directly from tableau maps. Areas more densily populates tend to have more deaths by firearms.
 
-Investigating the second topic:
+Investigating the second topic on the effect of legislation on firearms acquisition, the chart seems to show a slight decrease after the **Background Check Completion Act.** and no reduction of incidents after the **Fix Gun Checks Act of 2015**.
+![](image/line_chart.jpg)
 
+For the final part of the investigation. What is the primary reported cause of incidents with firearms?
+
+![](image/tree1.jpg)
+![](image/tree2.jpg)
 
 Here is link with interactive charts.
 [Tableau Link](https://public.tableau.com/app/profile/paula.machado6180/viz/ProjectIV_16846028469340/ThisisAmerica-ProjectIV-Tableau?publish=yes)
